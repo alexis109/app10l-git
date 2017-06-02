@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp10-1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,kenburns</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/000000000000000/DAM/TERCER PARCIAL/app10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/000000000000000/DAM/TERCER PARCIAL/app10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/33333.jpg</url>
+                <title>33333</title>
+                <filesize>14745</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/1111111.jpg</url>
+                <title>1111111</title>
+                <filesize>29268</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/2222222.jpg</url>
+                <title>2222222</title>
+                <filesize>13418</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/descarga.png</url>
+                <title>descarga</title>
+                <filesize>8150</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/Estudio de impacto ambiental.jpg</url>
+                <title>Estudio de impacto ambiental</title>
+                <filesize>24032</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/fdoto10.png</url>
+                <title>fdoto10</title>
+                <filesize>34367</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/foto0.jpg</url>
+                <title>foto0</title>
+                <filesize>82643</filesize>
+            </Image>
+            <Image>
+                <url>J:/000000000000000/DAM/TERCER PARCIAL/app10/imagenes/FOTO25.PNG</url>
+                <title>FOTO25</title>
+                <filesize>11923</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
